@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Carlos García 
 
-![Banner]([https://www.linkedin.com/in/carlos-garcía-gracia-34241a313/overlay/background-image/](https://github.com/CarlosGarcia-sec/CarlosGarcia-sec/blob/main/1728946830239.jpg?raw=true))  
+![Banner](https://github.com/CarlosGarcia-sec/CarlosGarcia-sec/blob/main/1728946830239.jpg)  
 
 I'm passionate about **cybersecurity, networking, and ethical hacking**. I love exploring vulnerabilities, analyzing attack techniques, and building security solutions.  
 
