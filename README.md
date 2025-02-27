@@ -17,4 +17,4 @@ I'm passionate about **cybersecurity, networking, and ethical hacking**. I love 
 
 ### 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/carlos-garcía-gracia-34241a313/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/CarlosGarcia-sec/)  
+[![Email](https://img.shields.io/badge/Email-garciagraciac8@gmail.com-blue)](mailto:garciagraciac8@gmail.com)
