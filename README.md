@@ -1,6 +1,5 @@
-## 👋 Hi, I'm Carlos
-
 ![Banner](https://github.com/CarlosGarcia-sec/CarlosGarcia-sec/blob/main/1728946830239.jpg)  
+# 👋 Hi, I'm Carlos
 
 I'm passionate about **cybersecurity, networking, and ethical hacking**. I love exploring vulnerabilities, analyzing attack techniques, and building security solutions.  
 
